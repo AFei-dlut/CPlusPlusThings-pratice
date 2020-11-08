@@ -1,2 +1,2 @@
-# C-
+# C++
 The project of C++
