@@ -1,3 +1,0 @@
-﻿  main.cpp
-F:\C++_project\CPlusPlusThings-pratice\basic_content\const\const\main.cpp(9,13): warning C4326: “main”的返回类型应为“int”而非“void”
-  const.vcxproj -> F:\C++_project\CPlusPlusThings-pratice\basic_content\const\Debug\const.exe
